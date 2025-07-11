@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/rodrigoserrasqueiro/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/LeandroSantosdaSilva/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://portfolio-novo-bice.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
   
