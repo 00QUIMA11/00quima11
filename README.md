@@ -8,7 +8,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-santos-da-silva-ab22561bb)
 
-![00quima11 Github stats](https://github-readme-stats.vercel.app/api?00quima11=anuraghazra&show_icons=true&theme=radical)
+![00QUIMA11 Github stats](https://github-readme-stats.vercel.app/api?username=00quima11&show_icons=true&theme=radical)
 
 
 
