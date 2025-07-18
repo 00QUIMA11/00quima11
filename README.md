@@ -6,7 +6,7 @@
 
 [![facebook](https://img.shields.io/badge/facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/leandrosantossilva.santos)
 
-[![linkedin](https://img.shields.io/badge/linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/leandrosantosdasilva.santos)
+[![linkedin](https://img.shields.io/badge/linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/leandrosantosdasilva)
 
 
 
