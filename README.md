@@ -8,6 +8,8 @@
 
 ![00QUIMA11 Github stats](https://github-readme-stats.vercel.app/api?username=00quima11&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00quima11)](https://github.com/anuraghazra/github-readme-stats)
+
 ##Tecnologias que eu uso no momento
 
 <div style="display: inline_block"><br/>
