@@ -8,7 +8,7 @@
 
 ![00QUIMA11 Github stats](https://github-readme-stats.vercel.app/api?username=00quima11&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00quima11)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]https://vercel.com/new/leandro-santos-da-silvas-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=dio-resumos-git-e-github-49vwm05pw.vercel.app&projectName=dio-resumos-git-e-github&s=https%3A%2F%2Fgithub.com%2F00QUIMA11%2Fdio-resumos-git-e-github-&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=ZSrEziKbXAhvb7N2edwcp]
 
   <div align="center">  
 
