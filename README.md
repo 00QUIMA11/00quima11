@@ -6,9 +6,10 @@
 [![facebook](https://img.shields.io/badge/facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/leandrosantossilva.santos)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-santos-da-silva-ab22561bb)
 
-![00QUIMA11 Github stats](https://github-readme-stats.vercel.app/api?username=00quima11&show_icons=true&theme=radical)
+[![00QUIMA11 Github stats](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github-readme-stats.vercel.app/api?username=00quima11&show_icons=true&theme=radical)
+                                                                           
 
-[![Top Langs]https://vercel.com/new/leandro-santos-da-silvas-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=dio-resumos-git-e-github-49vwm05pw.vercel.app&projectName=dio-resumos-git-e-github&s=https%3A%2F%2Fgithub.com%2F00QUIMA11%2Fdio-resumos-git-e-github-&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=ZSrEziKbXAhvb7N2edwcp]
+[![Top Langs]
 
   <div align="center">  
 
