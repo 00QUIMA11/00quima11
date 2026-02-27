@@ -5,7 +5,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leandrosantossilva.santos)
 [![facebook](https://img.shields.io/badge/facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/leandrosantossilva.santos)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-santos-da-silva-ab22561bb)
-[![00QUIMA11 Github stats](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://https://dio-resumos-git-e-github.vercel.app///api?username=00quima11&show_icons=true&theme=radical)
 <a href="https://dio-resumos-git-e-github.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
                                                                            
 
